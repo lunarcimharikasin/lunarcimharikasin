@@ -23,7 +23,7 @@ this.discordId = "1134496468917555341"
 module.exports = strafecimharikasinn;
 ```
 #
-
+<div align="center">
 <img src="https://lanyard.kyrie25.me/api/1134496468917555341?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 <img src="https://lanyard.kyrie25.me/api/1212841690449059873?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
