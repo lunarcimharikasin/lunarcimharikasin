@@ -1,5 +1,5 @@
 <div align="center">
-<img width="90%" src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=strafecimharikasinn;lesia+%3C3">
+<img width="90%" src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=strafecimharikasinn">
 </div>
 
 <h1 align="center">Hi 👋, I'm strafecimharikasinn</h1>
@@ -30,7 +30,6 @@ module.exports = strafecimharikasinn;
 
 <div align="center">
 <img src="https://lanyard.kyrie25.me/api/1134496468917555341?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
-<img src="https://lanyard.kyrie25.me/api/1212841690449059873?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
   </a>
 </div>
