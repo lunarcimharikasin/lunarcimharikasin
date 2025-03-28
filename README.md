@@ -20,7 +20,7 @@ constructor(options) {
 this.name = "Furkan",
 this.age = 18,
 this.discord = "lunarcimharikasin",
-this.discordId = "1134496468917555341"
+this.discordId = "1224382079500947537"
   };
 }
 module.exports = lunarcimharikasin;
