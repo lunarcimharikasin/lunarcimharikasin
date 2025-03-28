@@ -1,9 +1,9 @@
 <div align="center">
-<img width="90%" src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=strafecimharikasinn">
+<img width="90%" src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=lunarcimharikasin">
 </div>
 
-<h1 align="center">Hi 👋, I'm strafecimharikasinn</h1>
-<h3 align="center">strafecimharikasinn on the top</h3>
+<h1 align="center">Hi 👋, I'm lunarcimharikasin</h1>
+<h3 align="center">lunarcimharikasin on the top</h3>
 
 <div align="center">
 </div>
@@ -19,11 +19,11 @@ class strafecimharikasinn {
 constructor(options) {
 this.name = "Furkan",
 this.age = 18,
-this.discord = "strafecimharikasinn",
+this.discord = "lunarcimharikasin",
 this.discordId = "1134496468917555341"
   };
 }
-module.exports = strafecimharikasinn;
+module.exports = lunarcimharikasin;
 ```
 
 #
