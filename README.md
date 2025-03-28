@@ -15,7 +15,7 @@
 #
 
 ```js
-class strafecimharikasinn {
+class lunarcimharikasin {
 constructor(options) {
 this.name = "Furkan",
 this.age = 18,
