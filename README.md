@@ -9,7 +9,7 @@
 </div>
 <div align="center">
     <a href="https://open.spotify.com/user/l02y5kum6woejtxyq0m0zjlzg" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.gg/aguares" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/lexora" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 #
