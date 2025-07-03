@@ -29,7 +29,7 @@ module.exports = lunarcimharikasin;
 #
 
 <div align="center">
-<img src="https://lanyard.kyrie25.me/api/?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
+<img src="https://lanyard.kyrie25.me/api/1224382079500947537?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
   </a>
 </div>
