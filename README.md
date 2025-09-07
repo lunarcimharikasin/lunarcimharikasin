@@ -1,5 +1,5 @@
 <div align="center">
-<img width="90%" src= "https://readme-typing-svg.herokuapp.com/demo/?center=true&height=80&lines=lunarcimharikasin.;%3C3;historia">
+[<img width="90%" src= "https://readme-typing-svg.herokuapp.com/demo/?center=true&height=80&lines=lunarcimharikasin.;%3C3;historia">](https://readme-typing-svg.herokuapp.com/demo/?center=true&height=80&lines=lunarcimharikasin.;%3C3;historia)
 </div>
 
 <h1 align="center">Hi 👋, I'm lunarcimharikasin</h1>
